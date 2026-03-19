@@ -100,5 +100,8 @@ with n8n and GPT-powered pipelines to deliver automated data-driven insights.
 
 ## 📊 GitHub Stats
 
-![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinzeroCode&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinzeroCode&layout=compact&theme=tokyonight)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevinzeroCode&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinzeroCode&layout=compact&theme=tokyonight"/>
+</p>
+
