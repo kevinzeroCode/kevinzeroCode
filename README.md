@@ -101,7 +101,15 @@ with n8n and GPT-powered pipelines to deliver automated data-driven insights.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevinzeroCode&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinzeroCode&layout=compact&theme=tokyonight"/>
-</p>
+    <img height="180em"
+  src="https://github-readme-stats.vercel.app/api?username=kevinzeroCode&show_icons=true&theme=tokyonight"/>
+    <img height="180em"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinzeroCode&layout=compact&theme=tokyonight"/>
+  </p>
+
+## 🧩 LeetCode Stats
+
+  <p align="center">
+    <img src="https://leetcard.jacoblin.cool/kevin456hope?theme=dark&font=Nunito&ext=heatmap"/>
+  </p>
 
