@@ -1,5 +1,15 @@
 # Hi, I'm Kevin Chang (張祐誠) 👋
-CS Master's Student @ NTUST · Computer Vision & Artifical Intelligence
+CS Master's Student @ NTUST · AI / Computer Vision / Full-Stack AI Systems
+
+I build AI-powered applications across computer vision, workflow automation,
+and real-world data platforms, with recent work in OpenTPI/digiRunner-based
+FinTech analytics.
+
+<p align="center">
+  <a href="https://github.com/TPIsoftwareOSPO/digiRunner-Open-Source/blob/main/Community_Badges.md">
+    <img src="https://raw.githubusercontent.com/TPIsoftwareOSPO/digiRunner-Open-Source/main/Badges_Assets/02-Project%20Builder%20Badge.svg" height="100" alt="OpenTPI Project Builder Badge"/>
+  </a>
+</p>
 
 ---
 
@@ -64,13 +74,18 @@ automated CI/CD via GitHub Actions, and AWS App Runner + RDS deployment.
 
 ---
 
-### 📈 AI Stock Analysis Dashboard
-`GDG OpenTaipei 2026` · 2026/2 – Present
+### 📈 QuantDashboard AI — AI Stock Analysis Dashboard
+`OpenTPI Project Builder Badge` · `GDG OpenTPI 2026` · 2026/2 – Present
 
-React dashboard integrating Dify LLM workflows to analyze RSI/MACD indicators
-and generate natural-language market reports, with DigiRunner API Gateway for unified routing.
+Full-stack AI stock analysis platform integrating Dify LLM workflows,
+DigiRunner API Gateway, FastAPI data services, and a React dashboard for
+RSI / MACD analysis and natural-language market reports.
 
-`React` `Vite` `Dify` `DigiRunner` `Docker` `FinMind API`
+- 🏅 Recognized with the OpenTPI Project Builder Badge
+- 🔗 Repo: https://github.com/kevinzeroCode/GDG-opentpi-2026
+- 🌐 Demo: https://quant-opentpi.duckdns.org
+
+`React` `Vite` `FastAPI` `Dify` `DigiRunner` `Docker` `FinMind API`
 
 ---
 
