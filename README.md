@@ -113,9 +113,3 @@ with n8n and GPT-powered pipelines to deliver automated data-driven insights.
 
 ---
 
-## 🧩 LeetCode Stats
-
-  <p align="center">
-    <img src="https://leetcard.jacoblin.cool/kevin456hope?theme=dark&font=Nunito&ext=heatmap"/>
-  </p>
-
